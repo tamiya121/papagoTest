@@ -8,6 +8,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 public class APIExamTranslate {
+	
 
 	 public static void main(String[] args) {
 	        String clientId = "9rh501eOhfMUTbYwSjp5";
